@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F03%2F18%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[仅需一台笔记本，拥有一个属于自己的blog(1 of 2)]]></title>
+    <url>%2F2019%2F03%2F17%2F%E4%BB%85%E9%9C%80%E4%B8%80%E5%8F%B0%E7%AC%94%E8%AE%B0%E6%9C%AC%EF%BC%8C%E5%A6%82%E4%BD%95%E6%8B%A5%E6%9C%89%E4%B8%80%E4%B8%AA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84blog%2F</url>
+    <content type="text"><![CDATA[微信公众号，头条号，哔哩哔哩各类自媒体蜂拥而出 相比于这些，基于hexo和github的博客拥有很大操作空间，更加自由 本文将分成两个部分手把手教你搭建一个属于自己域名的个人blog Part 1 搭建一个本地blog准备工作安装Git和Node.js（点击，下载，安装，完成） 安装hexowin键+R，输入cmd，打开命令提示符 输入npm install -g hexo，回车 搭建本地blog创建一个文件夹(名字随便)，例如我的是D:\blog 则在cmd中输入cd /d/blog/，回车 输入hexo init，回车 输入hexo g，回车 输入hexo s，回车 点击此处 http://localhost:4000 便可以看到本地的blog雏形。]]></content>
+      <categories>
+        <category>blog</category>
+      </categories>
+  </entry>
+</search>
